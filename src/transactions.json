@@ -1,0 +1,22 @@
+[ {
+  "companyName" : "yesbank",
+  "noOfCompanyShares" : 33,
+  "customerName" : "sampada",
+  "noOfCustomerShares" : 21,
+  "datetime" : {
+    "dayOfMonth" : 12,
+    "dayOfWeek" : "SUNDAY",
+    "dayOfYear" : 12,
+    "month" : "JANUARY",
+    "monthValue" : 1,
+    "year" : 2020,
+    "hour" : 16,
+    "minute" : 6,
+    "nano" : 523000000,
+    "second" : 3,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    }
+  }
+} ]

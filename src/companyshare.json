@@ -1,0 +1,9 @@
+[ {
+  "companyName" : "adanipower",
+  "noOfShares" : 25,
+  "price" : 125.0
+}, {
+  "companyName" : "yesbank",
+  "noOfShares" : 33,
+  "price" : 110.0
+} ]
